@@ -25,7 +25,7 @@ import {
   Send
 } from 'lucide-react';
 import { AuditFormState } from './types';
-import { ChatWidget } from './ChatWidget';
+
 
 const MY_PHOTO_URL = "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1000&auto=format&fit=crop";
 
